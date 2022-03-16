@@ -1,0 +1,11 @@
+#backim{
+    background-image: url(../img/corrugated-cardboard-3853506_1920.jpg);
+    background-repeat: none;
+    background-position: right top;
+    background-size: 100%;
+    width: 1919;
+    height: 700;
+}
+a:hover{
+    background-color: brown;
+}
